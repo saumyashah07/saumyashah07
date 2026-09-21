@@ -284,32 +284,54 @@ Full-Stack Development · AI/ML · Application Development
 <!--                  CURRENT PROJECT                           -->
 <!-- ========================================================= -->
 
-<h2 align="center">Currently Building</h2>
+## Currently Building
 
-<p align="center">
+<table width="100%">
+<tr>
 
-<h3 align="center">MindMitra</h3>
+<td width="65%" align="center" valign="middle">
 
+<h3>MindMitra</h3>
+
+<p>
+MindMitra is an AI-based mental health support and emotional wellness
+application built using React Native.
 </p>
 
-<p align="center">
-An AI-based mental health support and emotional wellness application
-built using React Native.
+<p>
+The project focuses on creating a supportive digital experience with
+features such as:
 </p>
 
-<p align="center">
-
-<code>AI Chatbot</code>
-&nbsp;&nbsp;
-<code>Mood Tracking</code>
-&nbsp;&nbsp;
-<code>Journaling</code>
-&nbsp;&nbsp;
-<code>Stress Relief</code>
-&nbsp;&nbsp;
-<code>Doctor Support</code>
-
+<p>
+<b>AI-powered conversational support</b><br>
+<b>Mood tracking</b><br>
+<b>Journaling</b><br>
+<b>Stress-relief activities</b><br>
+<b>Doctor support</b>
 </p>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<h3>PROJECT STATUS</h3>
+
+<p>
+<code>IN DEVELOPMENT</code>
+</p>
+
+<h3>TECHNOLOGY</h3>
+
+<p>
+React Native<br>
+AI
+</p>
+
+</td>
+
+</tr>
+</table>
 
 
 <br>
