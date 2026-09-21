@@ -281,61 +281,6 @@ Full-Stack Development · AI/ML · Application Development
 
 
 <!-- ========================================================= -->
-<!--                   EDUCATION                               -->
-<!-- ========================================================= -->
-
-<h2 align="center">Education</h2>
-
-<p align="center">
-  <b>Shri Bhagubhai Mafatlal Polytechnic and College of Engineering</b>
-  <br>
-  Diploma in Computer Science Engineering
-  <br>
-  2024 – 2027
-</p>
-
-<p align="center">
-  <b>Poorna Prajna High School</b>
-  <br>
-  SSC, Class X — 89%
-  <br>
-  March 2024
-</p>
-
-
-<br>
-
-
-<!-- ========================================================= -->
-<!--                    EXPERIENCE                             -->
-<!-- ========================================================= -->
-
-<h2 align="center">Experience</h2>
-
-<p align="center">
-
-<b>DeepCytes Cyber Labs</b>
-<br>
-Cyber Analyst Intern
-<br>
-May 2026 – June 2026
-
-</p>
-
-<p align="center">
-Performed cybersecurity analysis and threat assessment tasks
-in a fully remote professional environment.
-</p>
-
-<p align="center">
-Contributed to cyber intelligence operations and security research.
-</p>
-
-
-<br>
-
-
-<!-- ========================================================= -->
 <!--                  CURRENT PROJECT                           -->
 <!-- ========================================================= -->
 
