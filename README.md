@@ -75,39 +75,47 @@
 <!--                  QUICK PROFILE                            -->
 <!-- ========================================================= -->
 
-<h2 align="center">Quick Profile</h2>
+## Quick Profile
 
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center" width="220">
 
-<b>Education</b><br><br>
-Diploma in Computer Science Engineering
+<td align="center" width="33%">
+
+<b>Role</b>
+
+<br><br>
+
+Computer Science<br>
+Engineering Student
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="33%">
 
-<b>Primary Interests</b><br><br>
+<b>Interests</b>
+
+<br><br>
+
 Software Development<br>
 AI / ML<br>
 Full-Stack Development
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="33%">
 
-<b>Currently Building</b><br><br>
-MindMitra
+<b>Currently Building</b>
+
+<br><br>
+
+MindMitra<br>
+AI-Based Wellness Application
 
 </td>
+
 </tr>
 </table>
-
-
-<br>
-
-
 <!-- ========================================================= -->
 <!--                   CURRENT FOCUS                           -->
 <!-- ========================================================= -->
