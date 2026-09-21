@@ -288,7 +288,7 @@ Full-Stack Development · AI/ML · Application Development
 
 <p align="center">
 
-<b>MindMitra</b>
+<h3 align="center">MindMitra</h3>
 
 </p>
 
@@ -316,27 +316,6 @@ built using React Native.
 
 
 <!-- ========================================================= -->
-<!--                  GITHUB STATISTICS                         -->
-<!-- ========================================================= -->
-
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saumyashah07&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyashah07&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-    height="170"
-  />
-</p>
-
-
-<br>
-
-
-<!-- ========================================================= -->
 <!--                  CONTRIBUTION STREAK                       -->
 <!-- ========================================================= -->
 
@@ -352,77 +331,32 @@ built using React Native.
 <br>
 
 
-<!-- ========================================================= -->
-<!--                  ACTIVITY GRAPH                            -->
-<!-- ========================================================= -->
-
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saumyashah07&theme=github-compact&hide_border=true&area=true&custom_title=Saumya%27s%20Contribution%20Activity"
-    width="95%"
-  />
-</p>
-
-
-<br>
-
-
-<!-- ========================================================= -->
-<!--                   PROFILE TROPHIES                         -->
-<!-- ========================================================= -->
-
-<h2 align="center">GitHub Profile</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=saumyashah07&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
-  />
-</p>
-
-
-<br>
-
 
 <!-- ========================================================= -->
 <!--                     CONNECT                                -->
 <!-- ========================================================= -->
 
-<h2 align="center">Let's Connect</h2>
+## Let's Connect
 
 <p align="center">
   Have an idea, project, or opportunity to discuss?
 </p>
 
 <p align="center">
-
-<a href="mailto:shahsaumya0711@gmail.com">
-  <img
-    src="https://img.shields.io/badge/shahsaumya0711%40gmail.com-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  />
-</a>
-
+  <a href="mailto:shahsaumya0711@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shahsaumya0711%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-
-<a href="https://github.com/saumyashah07">
-  GitHub
-</a>
-
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/saumya-shah-4b558336">
-  LinkedIn
-</a>
-
+  <a href="https://github.com/saumyashah07">
+    <img src="https://img.shields.io/badge/GitHub-saumyashah07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/saumya-shah-4b558336">
+    <img src="https://img.shields.io/badge/LinkedIn-Saumya%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
-
-<br>
-
-
 <!-- ========================================================= -->
 <!--                  PROFILE VIEWS                             -->
 <!-- ========================================================= -->
