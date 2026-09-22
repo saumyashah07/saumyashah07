@@ -89,7 +89,7 @@ AI-based mental health support and emotional wellness application.
 
 **Technology**
 
-React Native · AI
+Flutter · AI
 
 **Core Areas**
 
