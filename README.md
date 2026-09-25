@@ -210,14 +210,6 @@ Full-Stack Development · AI/ML · Application Development
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,fastapi,androidstudio,git,github,vscode,visualstudio"/>
 </p>
 
-<p align="center">
-  <br>
-  <b>Data & Analytics</b>
-  <br><br>
-  R &nbsp;&nbsp;•&nbsp;&nbsp; Power BI
-</p>
-
-
 <br>
 
 
@@ -295,7 +287,7 @@ Full-Stack Development · AI/ML · Application Development
 
 <p>
 MindMitra is an AI-based mental health support and emotional wellness
-application built using React Native.
+application built using Flutter.
 </p>
 
 <p>
@@ -324,7 +316,7 @@ features such as:
 <h3>TECHNOLOGY</h3>
 
 <p>
-React Native<br>
+Flutter<br>
 AI
 </p>
 
